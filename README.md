@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-sandrumol/sandrumol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sandra_skaria/sandra_skaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
